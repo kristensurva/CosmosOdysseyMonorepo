@@ -10,7 +10,9 @@ npm install lerna -g
 lerna bootstrap --hoist
 ```
 
-### run backend and frontend
+### Run backend and frontend
 ```
 lerna run start --parallel
 ```
+
+### Access client from http://localhost:8080/
