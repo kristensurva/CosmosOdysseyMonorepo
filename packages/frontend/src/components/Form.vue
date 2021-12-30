@@ -118,9 +118,6 @@ export default {
 
 
 <style scoped>
-[value="Earth"] {
-  color: red;
-}
 form {
   display: flex;
   align-items: center;
